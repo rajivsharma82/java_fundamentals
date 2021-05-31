@@ -1,4 +1,4 @@
-# CodingNomads Java Fundamentals
+# CodingNomads Java Fundamentals - RAJEEV EDIT changes 2
 
 This project contains a variety of textbook examples and labs focused on Java labs_examples.fundamentals.
 
@@ -22,15 +22,17 @@ To get started with this project please follow these instructions:
 14) Once loaded, you will see the directory structure on the left. Downclick on "Online_Java_Labs" to expand it. Also downclick on the "src" folder, then again "labs_examples.conditions_loops" and again on "examples".
 15) Double click on any file to open it.
 16) If the Java file contains a main() method, you can right click on the file and select "run" to run the code within the main()
-```
+``
+#
+
 
 ### Prerequisites
 
-```
+
 Install Java 8 JDK 8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 Install IntelliJ IDE Community Edition (https://www.jetbrains.com/idea/download)
 Install Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-```
+``
 
 ### Sources
 Many of the examples in this project are sourced from O'Reilly Media and are available free for download [here](https://www.mhprofessional.com/9781259589317-usa-java-a-beginners-guide-seventh-edition-group).
